@@ -1,1 +1,9 @@
 # HTTP_backend
+
+
+Backend TUTORIAL ---
+
+MONGO
+RESTFUL API 
+HTTP
+MVC STRUCTURE
